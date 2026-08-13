@@ -138,7 +138,7 @@ The goal is not only to show the final result.
 
 It is also about showing the thinking, process, skills, experiments, and ideas behind the work.
 
-Each project can become an interactive discovery inside the PlayCanvas experience.
+Each project can become an interactive discovery inside the experience.
 
 ---
 
@@ -162,28 +162,76 @@ The game ends where a real project could start.
 
 ---
 
-# PLAYCANVAS
+# GAME EXPERIENCE
 
-The actual portfolio game is being built with **PlayCanvas**.
+The experience is designed around the way modern games, anime, and interactive media build identity.
 
-PlayCanvas is the main engine and framework for the interactive experience.
+The character is not simply a profile image.
 
-This is **not** a traditional HTML/CSS/JavaScript portfolio website.
+The interface is not simply a navigation menu.
 
-The actual game environment, scenes, character, animations, UI, interactions, audio, and game flow are created through PlayCanvas.
+The portfolio is designed as a small world where visual storytelling, interaction, technology, and personal identity work together.
 
-### PlayCanvas handles
+The goal is simple:
 
-- Interactive scenes
-- Character
-- Animation
-- UI
-- Game flow
-- Interactive objects
-- Audio
+**Don't just read my portfolio. Enter it.**
+
+---
+
+# CYBERPUNK UI / UX
+
+The interface combines:
+
+- Cyberpunk visual language
+- Game-inspired interaction
+- Anime-inspired character presentation
+- Futuristic UI
+- Motion and animation
+- Interactive storytelling
 - Visual effects
-- Portfolio sections
-- Player interaction
+- Audio and atmosphere
+- Personal character design
+- Biotechnology themes
+
+The experience is designed to feel familiar to people who grew up with games, anime, digital culture, and rapidly evolving technology, while still presenting the work in a professional portfolio format.
+
+---
+
+# TECH STACK & WORKFLOW
+
+### FRAMEWORKS & TECHNOLOGY
+
+- **PlayCanvas** — interactive game environment and real-time 3D
+- **Three.js** — 3D graphics and visual experiments
+- **JavaScript** — interaction, logic, and game systems
+- **WebGL** — real-time browser rendering
+- **HTML / CSS** — supporting web presentation and integration
+
+### CREATIVE WORKFLOW
+
+```text
+CONCEPT
+   ↓
+CHARACTER DESIGN
+   ↓
+WORLD & UI DIRECTION
+   ↓
+2D / 3D ASSETS
+   ↓
+GAMEPLAY & INTERACTION
+   ↓
+ANIMATION & VFX
+   ↓
+AUDIO & ATMOSPHERE
+   ↓
+PLAYTESTING
+   ↓
+POLISH
+   ↓
+RELEASE
+```
+
+The workflow brings together game development, character design, interactive UI/UX, visual storytelling, and biotechnology into one creative direction.
 
 ---
 
@@ -211,63 +259,6 @@ CONTACT
 
 ---
 
-# CYBERPUNK UI / UX
-
-The interface is designed around a gaming experience rather than a normal portfolio.
-
-The visual direction combines:
-
-- Cyberpunk atmosphere
-- Futuristic interface elements
-- Character-driven interaction
-- Animation
-- Interactive storytelling
-- Gaming-inspired navigation
-- Biotechnology
-- Personal character design
-- Visual effects
-- Audio and atmosphere
-
----
-
-# CYBERPUNK VISUAL THEME
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/ba/a4/0b/baa40b5353ec5d61f8d7f0d467c44c0e.gif" width="100%" alt="Cyberpunk GIF theme">
-
-</div>
-
-The GIF is used as part of the GitHub README visual theme.
-
-The actual cyberpunk environment and UI of the game are created inside PlayCanvas.
-
----
-
-# WHY A GAME?
-
-If I want to create interactive experiences, the portfolio itself should demonstrate that.
-
-If biotechnology is part of my background, it should exist inside the experience.
-
-If gaming and technology are part of the direction, the portfolio should not feel like another normal webpage.
-
-Instead of saying:
-
-> Here are my skills.
-
-The visitor discovers them.
-
-Instead of saying:
-
-> Here are my projects.
-
-The visitor explores them.
-
-That is the idea behind turning the portfolio into a playable experience.
-
----
-
 # FEATURES
 
 - Playable portfolio experience
@@ -289,30 +280,6 @@ That is the idea behind turning the portfolio into a playable experience.
 
 ---
 
-# TECHNOLOGY
-
-<div align="center">
-
-<strong>PLAYCANVAS</strong>
-<br>
-<strong>JAVASCRIPT</strong>
-<br>
-<strong>WEBGL</strong>
-<br>
-<strong>2D / 3D ASSETS</strong>
-<br>
-<strong>CHARACTER ANIMATION</strong>
-<br>
-<strong>UI / UX DESIGN</strong>
-<br>
-<strong>INTERACTIVE STORYTELLING</strong>
-<br>
-<strong>AUDIO</strong>
-
-</div>
-
----
-
 # CONTACT ME
 
 <div align="center">
@@ -326,96 +293,28 @@ Want to discuss a project, collaboration, biotechnology idea, or proposal?
 <br>
 
 <a href="https://wa.me/358454918827">
-<img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/462/small/whatsapp-logo-whatsapp-icon-whatsapp-transparent-free-png.png" width="100" alt="WhatsApp">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/462/small/whatsapp-logo-whatsapp-icon-whatsapp-transparent-free-png.png" width="80" alt="WhatsApp">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:ethxvr27@gmail.com">
-<img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="100" alt="Gmail">
+<img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="80" alt="Gmail">
 </a>
 
 <br><br>
 
 <a href="https://wa.me/358454918827">
-<strong>WHATSAPP</strong>
+<strong>WhatsApp — +358 454918827</strong>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:ethxvr27@gmail.com">
-<strong>GMAIL</strong>
-</a>
-
-<br><br>
-
-<a href="https://wa.me/358454918827">
-WhatsApp — +358 454918827
-</a>
-
-<br><br>
-
-<a href="mailto:ethxvr27@gmail.com">
-Gmail — ethxvr27@gmail.com
+<strong>Gmail — ethxvr27@gmail.com</strong>
 </a>
 
 </div>
-
----
-
-# CONTACT LINKS
-
-The contact icons above are directly clickable.
-
-**WhatsApp**
-
-https://wa.me/358454918827
-
-**Gmail**
-
-mailto:ethxvr27@gmail.com
-
----
-
-# CHARACTER REFERENCES
-
-<div align="center">
-
-<img src="kat-details.JPG" width="90%" alt="Kat details">
-
-<br><br>
-
-<img src="kat-main.JPG" width="90%" alt="Kat main">
-
-<br><br>
-
-<img src="kat-potrait.JPG" width="90%" alt="Kat portrait">
-
-<br><br>
-
-<img src="kat-turnaround.JPG" width="90%" alt="Kat turnaround">
-
-</div>
-
----
-
-# PROJECT ASSETS
-
-```text
-CYBERPUNK-PORTFOLIO/
-│
-├── README.md
-│
-├── kat-details.JPG
-├── kat-main.JPG
-├── kat-potrait.JPG
-├── kat-turnaround.JPG
-│
-├── whatsapp.png
-├── gmail.png
-│
-└── PLAYCANVAS PROJECT
-```
 
 ---
 
