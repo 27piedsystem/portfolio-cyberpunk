@@ -1,4 +1,4 @@
-# ◢ CYBERPUNK PORTFOLIO ◣
+# CYBERPUNK PORTFOLIO
 
 <div align="center">
 
@@ -22,7 +22,7 @@ I turned my portfolio into a small cyberpunk game. Start the game, explore my ch
 
 The experience takes around **1–3 minutes**.
 
-Instead of simply scrolling through a traditional portfolio, visitors enter a small interactive world, meet my character, discover my background, explore my skills and biotechnology work, and eventually reach the contact stage.
+Instead of simply scrolling through a traditional portfolio, visitors enter a small interactive environment, meet my character, discover my background, explore my skills and biotechnology work, and eventually reach the contact stage.
 
 The portfolio itself becomes part of the project.
 
@@ -76,17 +76,25 @@ The portfolio itself becomes part of the project.
 
 The main character is based on me.
 
-I wanted the portfolio to have an actual character instead of starting with a normal professional photograph.
+I wanted the portfolio to have a personal identity instead of starting with a conventional professional photograph.
 
-Kat becomes part of the visual identity, interface, and story of the portfolio.
+Kat becomes part of the visual identity, interface, and narrative of the portfolio.
 
 ---
 
 # BIOGRAPHY
 
-The biography is part of the game rather than a normal "About Me" page.
+This portfolio reflects how I approach technology, creativity, and problem-solving.
 
-The visitor discovers information about me through the interactive environment instead of immediately reading a large block of text.
+My background in biotechnology shaped the way I approach projects through scientific thinking, experimentation, curiosity, and practical development. My interests have also expanded into digital technology, interactive experiences, game development, character design, and UI/UX.
+
+Rather than presenting these areas as separate interests, I wanted to bring them together into one project.
+
+This cyberpunk portfolio is the result.
+
+The experience turns my professional background into an interactive environment where visitors can explore my biography, skills, projects, proposals, and ideas through a game-inspired interface.
+
+It is both a portfolio and an example of how I work: developing an idea, building the experience, testing it, refining it, and using technology as a way to communicate something personal and meaningful.
 
 ---
 
@@ -94,7 +102,7 @@ The visitor discovers information about me through the interactive environment i
 
 The skills section shows what I can bring into a project.
 
-Instead of presenting everything as a static list, the skills become part of the exploration.
+Instead of presenting everything as a static list, the skills become part of the experience.
 
 <div align="center">
 
@@ -114,7 +122,7 @@ Instead of presenting everything as a static list, the skills become part of the
 
 Biotechnology is an important part of my background.
 
-I wanted to combine biotechnology with my interests in technology, gaming, design, and interactive experiences.
+I wanted to connect my biotechnology experience with my interests in technology, gaming, design, and interactive experiences.
 
 <div align="center">
 
@@ -132,68 +140,48 @@ I wanted to combine biotechnology with my interests in technology, gaming, desig
 
 # BIOTECHNOLOGY PROJECTS
 
-The project section is where visitors can explore my biotechnology-related work.
+The project section presents my biotechnology-related work, including the ideas, processes, experiments, and results behind each project.
 
-The goal is not only to show the final result.
+The focus is not only on the final outcome, but also on the thinking and development behind it.
 
-It is also about showing the thinking, process, skills, experiments, and ideas behind the work.
-
-Each project can become an interactive discovery inside the experience.
+Projects can be explored as part of the interactive portfolio experience.
 
 ---
 
 # PROPOSALS
 
-The proposal section focuses on what could be built next.
+The proposal section focuses on ideas for future projects, collaborations, and opportunities.
 
-A traditional portfolio usually focuses on completed work.
-
-This portfolio also presents possible future projects, collaborations, and ideas.
+A portfolio does not have to represent only what has already been completed. It can also show what could be developed next.
 
 ---
 
 # THE DEAL
 
-The "Deal" is where exploration turns into a real conversation.
+The "Deal" is where the portfolio moves from exploration toward collaboration.
 
-After discovering the character, biography, skills, biotechnology projects, and proposals, the visitor reaches the point where collaboration can begin.
-
-The game ends where a real project could start.
-
----
-
-# GAME EXPERIENCE
-
-The experience is designed around the way modern games, anime, and interactive media build identity.
-
-The character is not simply a profile image.
-
-The interface is not simply a navigation menu.
-
-The portfolio is designed as a small world where visual storytelling, interaction, technology, and personal identity work together.
-
-The goal is simple:
-
-**Don't just read my portfolio. Enter it.**
+After discovering the character, biography, skills, biotechnology projects, and proposals, visitors reach the point where a conversation about a real project can begin.
 
 ---
 
 # CYBERPUNK UI / UX
 
-The interface combines:
+The interface takes inspiration from modern games, anime, digital media, and futuristic technology while keeping the experience focused and professional.
 
-- Cyberpunk visual language
-- Game-inspired interaction
-- Anime-inspired character presentation
+The visual direction combines:
+
+- Cyberpunk atmosphere
 - Futuristic UI
-- Motion and animation
+- Character-driven interaction
+- Animation
 - Interactive storytelling
+- Game-inspired navigation
+- Biotechnology themes
+- Character design
 - Visual effects
 - Audio and atmosphere
-- Personal character design
-- Biotechnology themes
 
-The experience is designed to feel familiar to people who grew up with games, anime, digital culture, and rapidly evolving technology, while still presenting the work in a professional portfolio format.
+The goal is to create an experience that feels familiar to people who grew up with games, anime, and digital culture, while still presenting professional work in a clear and memorable way.
 
 ---
 
@@ -231,7 +219,7 @@ POLISH
 RELEASE
 ```
 
-The workflow brings together game development, character design, interactive UI/UX, visual storytelling, and biotechnology into one creative direction.
+The workflow combines game development, character design, interactive UI/UX, visual storytelling, and biotechnology into one portfolio experience.
 
 ---
 
@@ -269,7 +257,7 @@ CONTACT
 - Biotechnology projects
 - Project showcase
 - Future proposals
-- Deal / collaboration section
+- Collaboration section
 - Cyberpunk UI/UX
 - Character-driven interface
 - Animation
@@ -287,7 +275,7 @@ CONTACT
 <h2>CONTACT ME</h2>
 
 <p>
-Want to discuss a project, collaboration, biotechnology idea, or proposal?
+Interested in a project, collaboration, biotechnology idea, or proposal?
 </p>
 
 <br>
@@ -302,23 +290,11 @@ Want to discuss a project, collaboration, biotechnology idea, or proposal?
 <img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="80" alt="Gmail">
 </a>
 
-<br><br>
-
-<a href="https://wa.me/358454918827">
-<strong>WhatsApp — +358 454918827</strong>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:ethxvr27@gmail.com">
-<strong>Gmail — ethxvr27@gmail.com</strong>
-</a>
-
 </div>
 
 ---
 
-# ◢ SYSTEM ONLINE ◣
+# SYSTEM ONLINE
 
 <div align="center">
 
