@@ -6,8 +6,6 @@
 
 <br><br>
 
-<h1>CYBERPUNK PORTFOLIO</h1>
-
 <p><strong>A PLAYABLE PORTFOLIO EXPERIENCE BUILT WITH PLAYCANVAS</strong></p>
 
 <p>
@@ -328,13 +326,13 @@ Want to discuss a project, collaboration, biotechnology idea, or proposal?
 <br>
 
 <a href="https://wa.me/358454918827">
-<img src="whatsapp.png" width="100" alt="WhatsApp">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/462/small/whatsapp-logo-whatsapp-icon-whatsapp-transparent-free-png.png" width="100" alt="WhatsApp">
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:ethxvr27@gmail.com">
-<img src="gmail.png" width="100" alt="Gmail">
+<img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="100" alt="Gmail">
 </a>
 
 <br><br>
@@ -367,21 +365,13 @@ Gmail — ethxvr27@gmail.com
 
 # CONTACT LINKS
 
-### WhatsApp
+The contact icons above are directly clickable.
 
-**Icon file:**
-`whatsapp.png`
-
-**Clickable destination:**
+**WhatsApp**
 
 https://wa.me/358454918827
 
-### Gmail
-
-**Icon file:**
-`gmail.png`
-
-**Clickable destination:**
+**Gmail**
 
 mailto:ethxvr27@gmail.com
 
@@ -437,6 +427,12 @@ CYBERPUNK-PORTFOLIO/
 
 <br><br>
 
-<strong>CYBERPUNK PORTFOLIO — PLAYCANVAS</strong>
+<strong>PLAYCANVAS PORTFOLIO</strong>
+
+<br><br>
+
+<h2>WHAT DO YOU THINK OF THIS PORTFOLIO?</h2>
+
+<p><strong>READY TO JOIN THE TEAM AND BUILD SOMETHING EPIC TOGETHER?</strong></p>
 
 </div>
